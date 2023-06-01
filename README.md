@@ -80,4 +80,4 @@ Restoran sahibi perspektifi, fast food restoranlarını işleten kişilerin veri
 
 1-Menü Optimizasyonu: Yiyecek ve içecek öğelerinin besin değerlerini ve popülerliklerini analiz ederek, menünün optimize edilmesi ve daha çekici hale getirilmesi için önerilerde bulundum.
 
-3-Sağlıklı Alternatifler: Düşük kalorili, düşük yağlı veya sağlıklı içerikli yiyecek ve içecek seçenekleri sunarak, müşterilerin sağlıklı bir seçim yapmalarını teşvik etmek için önerilerde bulundum.
+2-Sağlıklı Alternatifler: Düşük kalorili, düşük yağlı veya sağlıklı içerikli yiyecek ve içecek seçenekleri sunarak, müşterilerin sağlıklı bir seçim yapmalarını teşvik etmek için önerilerde bulundum.
