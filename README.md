@@ -1,4 +1,4 @@
-# 🍔🍟 Fastfood Beslenme Veri Seti Analizi
+# 🍔🍟 Fastfood Nutrition Veri Seti Analizi
 ## 🥪Proje Amacı
 Bu proje, "fastfood" adlı veri setini analiz etmeyi amaçlamaktadır. Veri setinde yer alan fast food restoranlarının menülerindeki yiyecek ve içecek öğeleri ile bunlara ait besin değerleri incelenerek, müşteri ve restoran sahibi perspektiflerinden farklı açılardan yorumlar yapılmaktadır.
 ## 🍕Proje Kapsamı
